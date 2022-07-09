@@ -1,10 +1,10 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name: Anushka Sharma 
+- University Roll No.:1900290310028
+- Branch:ECE
+- Section:A
+- Preferred Programming Language: C++
 
 ## Coding Profiles
 - LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
